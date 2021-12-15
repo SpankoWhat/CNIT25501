@@ -1,0 +1,2 @@
+# CNIT25501
+This course introduces software development concepts common to modern object-oriented programming languages. Topics include: intermediate data types, decisions, repetitive structures; methods; arrays and collections; encapsulation, inheritance, and polymorphism; exception handling; data persistence; Database Management System (DBMS) connectivity; user interface construction; software testing and debugging; and working in teams
